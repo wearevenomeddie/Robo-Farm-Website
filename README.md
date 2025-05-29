@@ -1,9 +1,6 @@
 # Robo-Farm-Website
 A simple website about farming robots.
-You got it! You want a really detailed instruction manual for your README.md file on GitHub, something that explains your project thoroughly. This is a fantastic idea because a good README helps everyone understand your project, even if they're new to coding or just looking at your work.
-
-Here's a long, detailed README.md instruction manual you can copy and paste into your GitHub repository. I've broken it down into sections so it's easy to read and understand.
-
+Intruction Manual:
 RoboFarm: The Future of Agriculture
 🚀 Project Overview
 Welcome to RoboFarm, a simple yet impactful website showcasing the exciting future of agriculture powered by robotics! This project demonstrates how modern web technologies (HTML and CSS) can be used to create a clear, engaging, and informative online presence for innovative ideas.
